@@ -1,3 +1,4 @@
+// https://github.com/hato336/competitive-programming-library
 #include <bits/stdc++.h>
 using namespace std;
 #define all(...) std::begin(__VA_ARGS__), std::end(__VA_ARGS__)

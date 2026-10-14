@@ -1,5 +1,7 @@
 #!/bin/zsh
 
+# https://github.com/hato336/competitive-programming-library
+
 # 使い方: ./test.sh <correct> <wrong> <generator>
 # $1: 正解コード（.cpp を除く）
 # $2: 検証するコード（.cpp を除く）
